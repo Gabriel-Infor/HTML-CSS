@@ -1,5 +1,5 @@
 Comandos do Git 
-Git e GitHub · Guia rápido para consultar durante as aulas 
+Git e GitHub 
 
 
 1- Configurar e começar 
